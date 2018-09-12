@@ -1,0 +1,6 @@
+	1. Figures [JXP, RC]
+	2. Abstract [JXP]
+	3. SPG data [WD]
+4. SSC recommendation [Luca]
+5. WMKO activities [Luca]
+6. DEIMOS details [JFH]
